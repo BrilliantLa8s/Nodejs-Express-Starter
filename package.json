@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-express-starter",
+  "version": "1.0.0",
+  "description": "Node.js & Express Starter App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrilliantLa8s/Nodejs-Express-Starter.git"
+  },
+  "keywords": [
+    "Node",
+    "Nodejs",
+    "Express",
+    "Starter"
+  ],
+  "author": "Brilliant Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrilliantLa8s/Nodejs-Express-Starter/issues"
+  },
+  "homepage": "https://github.com/BrilliantLa8s/Nodejs-Express-Starter#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

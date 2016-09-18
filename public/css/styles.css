@@ -1,0 +1,46 @@
+body {
+  background: #4aa1db url('../assets/blueprint.png');
+  font: 400 16px/1.5 "Open Sans", sans-serif;
+  text-align:center;
+  color:#fff;
+  margin:0;
+  padding:0;
+}
+h1, h2, h3 {
+  font-weight:100;
+}
+nav {
+  height:80px;
+  padding:0 15px;
+  border-bottom:1px solid #fff;
+  margin-bottom:75px;
+  text-align:left;
+  overflow: auto;
+}
+.brand {
+  font-size:24px;
+  position: relative;
+  top: 22px;
+}
+ul.links {
+  list-style: none;
+  float:right;}
+  ul.links > li {
+    float:left;}
+    ul.links > li > a {
+      color:#fff;
+      text-decoration:none;
+      position:relative;
+      font-size:18px;
+      top:10px;
+    }
+.btn-link {
+  margin-top:15px;
+  padding:12px 15px;
+  background:rgba(255,255,255,0.4);
+  border:1px solid #eee;
+  color:#fff;
+  border-radius:3px;}
+  .btn-link:link {
+    text-decoration:none;
+  }
